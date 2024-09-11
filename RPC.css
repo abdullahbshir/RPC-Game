@@ -1,0 +1,44 @@
+.body{
+    
+    font-family: 'Roboto';
+    font-size: 14px;
+    height: 100%;
+    /* width: 100%; */
+}
+.RPC{
+        padding-left: 200px;
+}
+.main{
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding-top: 13%; 
+    height: 575px;
+    width: 100%; 
+    background-color: lightgray;
+
+}
+.game{
+    background-color: rgb(21, 121, 105);
+    margin-right: 350px;
+    padding-left: 75px;
+    height: 350px;
+    width: 500px;
+    padding-top: 3px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+.moves{
+   padding-left:9% ;
+
+}
+.button{
+    padding-left: 2%;
+}
+.button img{
+    width: 100px;
+    height: 100px;
+}
+
+.score {
+    display: block;
+}
